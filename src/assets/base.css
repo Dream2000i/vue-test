@@ -1,0 +1,20 @@
+
+th {
+    position: relative;
+    z-index: 10;
+    /* touch-action: none; */
+    cursor: pointer;
+    white-space: nowrap;
+}
+td {
+    white-space: nowrap;
+    text-align: center;
+}
+span {
+    /* touch-action: none */
+}
+tr {
+    position: relative;
+    /* touch-action: none; */
+    z-index: 10;
+}

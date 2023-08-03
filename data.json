@@ -1,0 +1,52 @@
+[
+    {
+        "id":21,
+        "name": "Мраморный щебень фр. 2-5 мм, 25кг",
+        "title": "Мраморный щебень",
+        "price": 1231,
+        "weight": 25,
+        "pledgedDelivery": 12,
+        "delivery": 300,
+        "capacity": "30 кг"
+    },
+    {
+        "id":55,
+        "name": "Мраморный щебень фр. 2-5 мм, 25кг (белый)",
+        "title": "Мраморный щебень белый",
+        "price": 1300,
+        "weight": 25,
+        "pledgedDelivery": 15,
+        "delivery": 300,
+        "capacity": "30 кг"
+    },
+    {
+        "id":51,
+        "name": "Мраморный щебень фр. 2-5 мм, 25кг (вайт)",
+        "title": "Мраморный щебень вайт",
+        "price": 1400,
+        "weight": 25,
+        "pledgedDelivery": 15,
+        "delivery": 300,
+        "capacity": "30 кг"
+    },
+    {
+        "id":11,
+        "name": "Мраморный щебень фр. 2-5 мм, 25кг, возврат",
+        "title": "Мраморный щебень возврат",
+        "price": 1000,
+        "weight":35,
+        "pledgedDelivery": 12,
+        "delivery": 300,
+        "capacity": "30 кг"
+    },
+    {
+        "id":57,
+        "name": "Мраморный щебень фр. 2-5 мм, 1т",
+        "title": "Мраморный щебень 2",
+        "price": 1700,
+        "weight": 50,
+        "pledgedDelivery": 15,
+        "delivery": 300,
+        "capacity": "30 кг"
+    }
+]
